@@ -1,8 +1,8 @@
-\# 🎮 Auction — StarCraft II Custom Mode
+# 🎮 Auction — StarCraft II Custom Mode
 
 
 
-\## 📌 Overview
+## 📌 Overview
 
 
 
@@ -22,11 +22,11 @@ https://www.youtube.com/watch?v=Hm7TsLJSxs0
 
 
 
-\---
+---
 
 
 
-\## 🚀 Installation
+## 🚀 Installation
 
 
 
@@ -34,7 +34,7 @@ The project is already configured for launching.
 
 
 
-\### 1. Download Includes folder
+### 1. Download Includes folder
 
 
 
@@ -66,11 +66,11 @@ If the `Mods` folder does not exist, create it manually.
 
 
 
-\---
+---
 
 
 
-\### 2. Download DATAModder.SC2Mod
+### 2. Download DATAModder.SC2Mod
 
 
 
@@ -106,11 +106,11 @@ StarCraft II\\Mods\\Includes
 
 
 
-\---
+---
 
 
 
-\### 3. Launch the game
+### 3. Launch the game
 
 
 
@@ -150,15 +150,15 @@ https://docs.google.com/document/d/1NMkoAfWPTm6X4PJ5sUmw9KmPxT4ionzaNIx2uZm9UhQ/
 
 
 
-\---
+---
 
 
 
-\# 🎯 Main Game Modes
+# 🎯 Main Game Modes
 
 
 
-\## 💰 Auction
+## 💰 Auction
 
 
 
@@ -166,11 +166,11 @@ Players buy randomly selected unit sets using a betting system.
 
 
 
-\---
+---
 
 
 
-\## 🎲 Roulette
+## 🎲 Roulette
 
 
 
@@ -178,11 +178,11 @@ An addition to Auction where the winner of units is randomized.
 
 
 
-\---
+---
 
 
 
-\## 🏰 KotH (King of the Hill)
+## 🏰 KotH (King of the Hill)
 
 
 
@@ -194,11 +194,11 @@ Inspired by the original KotH arcade map by KingCobra.
 
 
 
-\---
+---
 
 
 
-\## 🤝 Coalitions
+## 🤝 Coalitions
 
 
 
@@ -206,11 +206,11 @@ When the KotH timer is close to ending, all remaining players unite against the 
 
 
 
-\---
+---
 
 
 
-\## 🌍 Decreasing Map
+## 🌍 Decreasing Map
 
 
 
@@ -218,11 +218,11 @@ The playable area gradually decreases over time.
 
 
 
-\---
+---
 
 
 
-\## 🧱 Creates Supplies
+## 🧱 Creates Supplies
 
 
 
@@ -230,11 +230,11 @@ The KotH owner receives defensive wall structures around the central point.
 
 
 
-\---
+---
 
 
 
-\## 📍 Moving Center
+## 📍 Moving Center
 
 
 
@@ -242,11 +242,11 @@ The KotH control point periodically changes position around the map.
 
 
 
-\---
+---
 
 
 
-\## 💎 Minerals in the Center
+## 💎 Minerals in the Center
 
 
 
@@ -254,11 +254,11 @@ Minerals periodically appear in the central area.
 
 
 
-\---
+---
 
 
 
-\## 🎯 Rivals
+## 🎯 Rivals
 
 
 
@@ -266,11 +266,11 @@ Each player receives a rival. Destroying rival units grants reinforcement reward
 
 
 
-\---
+---
 
 
 
-\## 🎭 Name\_Anonimity
+## 🎭 Name Anonimity
 
 
 
@@ -278,11 +278,11 @@ Player colors are randomized and nicknames are hidden.
 
 
 
-\---
+---
 
 
 
-\## 📋 Objective
+## 📋 Objective
 
 
 
@@ -290,11 +290,11 @@ Players receive dynamic in-game tasks similar to campaign objectives.
 
 
 
-\---
+---
 
 
 
-\## 🐾 YoungYakov
+## 🐾 YoungYakov
 
 
 
@@ -302,11 +302,11 @@ Neutral units appear across the map and can be captured.
 
 
 
-\---
+---
 
 
 
-\## 🏢 Neutral Buildings
+## 🏢 Neutral Buildings
 
 
 
@@ -314,11 +314,11 @@ Neutral structures spawn across the map and can be used by any player, inspired 
 
 
 
-\---
+---
 
 
 
-\## ⚖️ Random Balance
+## ⚖️ Random Balance
 
 
 
@@ -326,11 +326,11 @@ Unit attributes are randomly modified during gameplay.
 
 
 
-\---
+---
 
 
 
-\## 🌫 Fog
+## 🌫 Fog
 
 
 
@@ -338,11 +338,11 @@ Periodic fog events reduce player vision.
 
 
 
-\---
+---
 
 
 
-\## 🌙 Day\_Time
+## 🌙 Day\_Time
 
 
 
@@ -350,11 +350,11 @@ Dynamic day and night cycle system.
 
 
 
-\---
+---
 
 
 
-\## 🔄 Unit Adaptation
+## 🔄 Unit Adaptation
 
 
 
@@ -362,11 +362,11 @@ Unit attributes evolve depending on their battlefield efficiency.
 
 
 
-\---
+---
 
 
 
-\## 🛠 Custom Units
+## 🛠 Custom Units
 
 
 
@@ -374,15 +374,15 @@ The project includes a large amount of custom-designed units.
 
 
 
-\---
+---
 
 
 
-\# 🚧 Disabled / Experimental Modes
+# 🚧 Disabled / Experimental Modes
 
 
 
-\## 🏕 Nomad (currently disabled)
+## 🏕 Nomad (currently disabled)
 
 
 
@@ -390,11 +390,11 @@ Random unit spawning across the map inspired by Age of Empires II Nomad mode.
 
 
 
-\# 📦 Project Structure
+# 📦 Project Structure
 
 
 
-\## IncludesModder.SC2Mod
+## IncludesModder.SC2Mod
 
 
 
@@ -402,11 +402,11 @@ Contains the main gameplay logic of the project, including game modes, triggers,
 
 
 
-\---
+---
 
 
 
-\## IncludesMap.SC2Mod
+## IncludesMap.SC2Mod
 
 
 
@@ -426,11 +426,11 @@ Configured for 4 players.
 
 
 
-\---
+---
 
 
 
-\## DATAModder.SC2Mod
+## DATAModder.SC2Mod
 
 
 
@@ -438,11 +438,11 @@ Contains additional external resources, assets, and supporting content used by t
 
 
 
-\---
+---
 
 
 
-\## additionalDataMod.SC2Mod
+## additionalDataMod.SC2Mod
 
 
 
@@ -450,11 +450,11 @@ Contains unit data configuration and gameplay attributes for units, including cu
 
 
 
-\---
+---
 
 
 
-\# 📚 External Assets \& Resources
+# 📚 External Assets \& Resources
 
 
 
@@ -474,47 +474,47 @@ Used community assets:
 
 
 
-\* HammerTheTank107
+* HammerTheTank107
 
 &#x20; https://www.curseforge.com/sc2/assets/hammers-assets
 
 
 
-\* \_ForgeUser6335207
+* _ForgeUser6335207
 
 &#x20; https://www.curseforge.com/sc2/assets/infested-zealot
 
 
 
-\* DaveTheSpectre
+* DaveTheSpectre
 
 &#x20; https://www.curseforge.com/sc2/assets/davespectres-assets
 
 
 
-\* ghostnova91
+* ghostnova91
 
 &#x20; https://www.curseforge.com/sc2/assets/ghostnovas-mods
 
 
 
-\* thrikodias
+* thrikodias
 
 &#x20; https://www.curseforge.com/sc2/assets/thrikodias-assets
 
 
 
-\* AlleyVsc
+* AlleyVsc
 
 &#x20; https://www.curseforge.com/sc2/assets/starcraft-kitbash-universe
 
 
 
-\---
+---
 
 
 
-\# 🛠 Future Plans
+# 🛠 Future Plans
 
 
 
@@ -522,19 +522,19 @@ Planned improvements include:
 
 
 
-\* Optimization
+* Optimization
 
-\* Refactoring
+* Refactoring
 
-\* Improved UI/UX
+* Improved UI/UX
 
-\* Better gameplay balancing
+* Better gameplay balancing
 
-\* Re-adding mode enable/disable systems
+* Re-adding mode enable/disable systems
 
-\* Additional custom mechanics
+* Additional custom mechanics
 
-\* Multiplayer stability improvements
+* Multiplayer stability improvements
 
-\* Developing a Twitch chatbot that interacts with the game via chat commands
+* Developing a Twitch chatbot that interacts with the game via chat commands
 
