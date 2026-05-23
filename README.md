@@ -78,7 +78,7 @@ Download:
 
 
 
-https://drive.google.com/file/d/1vH6Al\_cFgUZRX5W43yhkv-m8DYHECpR8/view?usp=sharing
+https://drive.google.com/file/d/1vH6Al_cFgUZRX5W43yhkv-m8DYHECpR8/view
 
 
 
@@ -142,7 +142,7 @@ The map will automatically detect the `Includes` folder and launch with the Auct
 
 
 
-Additional setup information:
+Original setup information:
 
 
 
