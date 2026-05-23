@@ -1,0 +1,9 @@
+This file is required for the project to work.
+
+Download the required file from:
+https://drive.google.com/file/d/1vH6Al_cFgUZRX5W43yhkv-m8DYHECpR8/view
+
+Then place it into:
+StarCraft II\Mods\Includes
+
+If the Mods folder does not exist, create it manually.
